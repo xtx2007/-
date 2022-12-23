@@ -2,7 +2,7 @@
 
 - 网站公告
 
-  [百度](http://www.baidu.com)，
+  [关于本站](Notice/1)
   [慕课](http://www.imooc.com)，
   [Github](http://www.github.com)
 
