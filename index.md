@@ -4,7 +4,8 @@
 
   [关于本站](Notice/1)
   
-  [慕课](http://www.imooc.com)，
+  [关于征集建议的公告](Notice/2)
+  
   [Github](http://www.github.com)
 
 - 推荐笔记
@@ -18,7 +19,8 @@
   [淘宝](http://www.taobao.com)，
   [京东](http://www.jd.com)
 
-- 联系
+- 菜单
 
-  [小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
-
+  [鸣谢](thanks)
+  
+  [联系]()
